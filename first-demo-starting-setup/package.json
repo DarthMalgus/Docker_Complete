@@ -1,5 +1,5 @@
 {
-  "name": "docker-complete",
+  "name": "docker_complete",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/docker-complete-guide"
+    "url": "https://github.com/DarthMalgus/Docker_Complete/tree/main/first-demo-starting-setup"
   },
   "author": "",
   "license": "ISC",
